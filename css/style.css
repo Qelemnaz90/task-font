@@ -1,0 +1,30 @@
+.h1 {
+    
+}
+
+.h1 h1{
+    font-family: "Coming Soon", cursive;
+    border-bottom: 1px solid black;
+    color: hotpink;
+    text-align: center;
+    font-weight:bolder;}
+
+.txt1 h3 {
+    font-family: "Homemade Apple", cursive;
+    color: darkorchid;
+    font-size: larger;
+}
+
+
+h4 {
+    font-family: "Permanent Marker", cursive;
+    color:darkslateblue;
+    height: 70px;
+    font-size: x-large;}
+
+p {
+    font-family: "Dancing Script", cursive;
+    font-size: x-large;}
+    
+
+
